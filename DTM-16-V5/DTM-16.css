@@ -1620,19 +1620,10 @@
 }
 
 .groupStart-23k01U {
-  padding-top: 20px !important;
-  margin-top: 20px !important;
+  padding-top: 0px !important;
+  margin-top: 0px !important;
 }
-.groupStart-23k01U:before, .groupStart-23k01U.mentioned-xhSam7:before {
-  content: "";
-  width: calc(100% - 20px);
-  height: 1px;
-  background: var(--background-modifier-accent);
-  display: block !important;
-  position: absolute;
-  left: 20px;
-  top: 0;
-}
+
 .groupStart-23k01U:not(.message-2qnXI6):not(.backgroundFlash-24qWLN):before {
   position: relative;
   display: block;
